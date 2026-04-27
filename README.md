@@ -59,3 +59,6 @@ Open the `index.html` file and begin personalizing it. The file contains helpful
 - Create your favicon and add it to the root folder.
 
 Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+
+My Photo(<img width="263" height="332" alt="photo_profile" src="https://github.com/user-attachments/assets/fa264465-9371-455c-8a65-010304a052e7" />)
+
